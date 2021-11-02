@@ -1,0 +1,9 @@
+:root {
+    --mainbackgroundcolor: #FFFFFF;
+    --maintextcolorblack: #000000;
+    --mainbackgroundcolorblue: #458FF6;
+    --maintextcolorhyfen: #1F1534;
+    --maintextcolorgray: #7D7987;
+    --maintextfontfamily: 'Mulish', sans-serif;
+    --mainbordercolorblue: #458FF6;
+}
